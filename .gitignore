@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/UPS/UPS.AddressValidation.API/bin/Debug/net8.0
+/src/UPS/UPS.AddressValidation.API/obj
+/src/UPS/UPS.AddressValidation.Application/bin/Debug/net8.0
+/src/UPS/UPS.AddressValidation.Application/obj
+/src/UPS/UPS.AddressValidation.Domain/bin/Debug/net8.0
+/src/UPS/UPS.AddressValidation.Domain/obj
+/src/UPS/UPS.AddressValidation.Infrastructure/bin/Debug/net8.0
+/src/UPS/UPS.AddressValidation.Infrastructure/obj
+/src/UPS/UPS.AddressSuggestion.API/bin/Debug/net8.0
+/src/UPS/UPS.AddressSuggestion.API/obj
+/src/UPS/UPS.AddressSuggestion.Domain/obj
+/src/UPS/UPS.AddressSuggestion.Domain/bin/Debug/net8.0
+/src/UPS/UPS.AddressSuggestion.Infrastructure/bin/Debug/net8.0
+/src/UPS/UPS.AddressSuggestion.Infrastructure/obj
+/UPS.AddressSuggestion.Application/bin/Debug/net8.0
+/UPS.AddressSuggestion.Application/obj
+/src/UPS/UPS.AddressSuggestion.Application/bin/Debug/net8.0
+/src/UPS/UPS.AddressSuggestion.Application/obj
