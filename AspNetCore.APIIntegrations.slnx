@@ -1,4 +1,8 @@
 <Solution>
+  <Project Path="src/FedEx/Tracking/FedEx.Tracking.API/FedEx.Tracking.API.csproj" Id="acd16603-a08c-4032-870f-2f356276acfb" />
+  <Project Path="src/FedEx/Tracking/FedEx.Tracking.Application/FedEx.Tracking.Application.csproj" Id="6f0cac2a-a797-40ea-844a-0cc9b06bbc1a" />
+  <Project Path="src/FedEx/Tracking/FedEx.Tracking.Domain/FedEx.Tracking.Domain.csproj" Id="ed842664-10c2-4376-a310-725a44c8e620" />
+  <Project Path="src/FedEx/Tracking/FedEx.Tracking.Infrastructure/FedEx.Tracking.Infrastructure.csproj" Id="201e9726-2c3b-425e-b019-5b4c5a853d23" />
   <Project Path="src/UPS/UPS.AddressSuggestion.API/UPS.AddressSuggestion.API.csproj" Id="3fbc2845-0972-4fd4-85ae-33c22ea815d3" />
   <Project Path="src/UPS/UPS.AddressSuggestion.Application/UPS.AddressSuggestion.Application.csproj" Id="ebaa1928-41a1-413d-8f0e-fba82217daf2" />
   <Project Path="src/UPS/UPS.AddressSuggestion.Domain/UPS.AddressSuggestion.Domain.csproj" Id="527237bb-1957-4edf-ac64-853c99e97b3e" />

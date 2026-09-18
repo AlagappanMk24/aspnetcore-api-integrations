@@ -1,0 +1,6 @@
+@FedEx.Tracking.API_HostAddress = http://localhost:5241
+
+GET {{FedEx.Tracking.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

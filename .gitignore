@@ -21,3 +21,11 @@
 /UPS.AddressSuggestion.Application/obj
 /src/UPS/UPS.AddressSuggestion.Application/bin/Debug/net8.0
 /src/UPS/UPS.AddressSuggestion.Application/obj
+/src/FedEx/Tracking/FedEx.Tracking.API/bin/Debug/net8.0
+/src/FedEx/Tracking/FedEx.Tracking.API/obj
+/src/FedEx/Tracking/FedEx.Tracking.Application/bin/Debug/net8.0
+/src/FedEx/Tracking/FedEx.Tracking.Application/obj
+/src/FedEx/Tracking/FedEx.Tracking.Domain/bin/Debug/net8.0
+/src/FedEx/Tracking/FedEx.Tracking.Domain/obj
+/src/FedEx/Tracking/FedEx.Tracking.Infrastructure/bin/Debug/net8.0
+/src/FedEx/Tracking/FedEx.Tracking.Infrastructure/obj
