@@ -1,0 +1,6 @@
+@FedEx.Shipment.API_HostAddress = http://localhost:5039
+
+GET {{FedEx.Shipment.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

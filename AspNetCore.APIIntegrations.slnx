@@ -1,4 +1,9 @@
 <Solution>
+  <Project Path="src/FedEx/Shipment/FedEx.Shipment.API/FedEx.Shipment.API.csproj" Id="76bd3e69-6923-4df6-8726-b2fca3b886a9" />
+  <Project Path="src/FedEx/Shipment/FedEx.Shipment.Application/FedEx.Shipment.Application.csproj" Id="60e5ff51-a6cf-48ab-a31a-9d87210ecbdc" />
+  <Project Path="src/FedEx/Shipment/FedEx.Shipment.Domain/FedEx.Shipment.Domain.csproj" Id="f9dacfe0-abc2-48ec-9c80-f7d7d5de8cf1" />
+  <Project Path="src/FedEx/Shipment/FedEx.Shipment.Infrastructure/FedEx.Shipment.Infrastructure.csproj" Id="336485e0-6751-4004-b120-58013b41f0fe" />
+  <Project Path="src/FedEx/Shipment/FedEx.Shipment.Tests/FedEx.Shipment.Tests.csproj" Id="43a76766-04f3-4056-846a-708539719365" />
   <Project Path="src/FedEx/Tracking/FedEx.Tracking.API/FedEx.Tracking.API.csproj" Id="acd16603-a08c-4032-870f-2f356276acfb" />
   <Project Path="src/FedEx/Tracking/FedEx.Tracking.Application/FedEx.Tracking.Application.csproj" Id="6f0cac2a-a797-40ea-844a-0cc9b06bbc1a" />
   <Project Path="src/FedEx/Tracking/FedEx.Tracking.Domain/FedEx.Tracking.Domain.csproj" Id="ed842664-10c2-4376-a310-725a44c8e620" />

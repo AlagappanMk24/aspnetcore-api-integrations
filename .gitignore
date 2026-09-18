@@ -29,3 +29,13 @@
 /src/FedEx/Tracking/FedEx.Tracking.Domain/obj
 /src/FedEx/Tracking/FedEx.Tracking.Infrastructure/bin/Debug/net8.0
 /src/FedEx/Tracking/FedEx.Tracking.Infrastructure/obj
+/src/FedEx/Shipment/FedEx.Shipment.API/bin/Debug/net8.0
+/src/FedEx/Shipment/FedEx.Shipment.API/obj
+/src/FedEx/Shipment/FedEx.Shipment.Application/bin/Debug/net8.0
+/src/FedEx/Shipment/FedEx.Shipment.Application/obj
+/src/FedEx/Shipment/FedEx.Shipment.Domain/bin/Debug/net8.0
+/src/FedEx/Shipment/FedEx.Shipment.Domain/obj
+/src/FedEx/Shipment/FedEx.Shipment.Infrastructure/bin/Debug/net8.0
+/src/FedEx/Shipment/FedEx.Shipment.Infrastructure/obj
+/src/FedEx/Shipment/FedEx.Shipment.Tests/bin/Debug/net8.0
+/src/FedEx/Shipment/FedEx.Shipment.Tests/obj
