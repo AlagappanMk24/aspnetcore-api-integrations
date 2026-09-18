@@ -39,3 +39,7 @@
 /src/FedEx/Shipment/FedEx.Shipment.Infrastructure/obj
 /src/FedEx/Shipment/FedEx.Shipment.Tests/bin/Debug/net8.0
 /src/FedEx/Shipment/FedEx.Shipment.Tests/obj
+/src/Duo/DuoAuth.Api/bin/Debug/net8.0
+/src/Duo/DuoAuth.Api/obj
+/src/Duo/DuoAuth.Api.Tests/bin/Debug/net8.0
+/src/Duo/DuoAuth.Api.Tests/obj

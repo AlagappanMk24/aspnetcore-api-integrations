@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="src/Duo/DuoAuth.Api.Tests/DuoAuth.Api.Tests.csproj" Id="6c0ec4d4-1163-42af-ac72-bbfe59ce5bec" />
+  <Project Path="src/Duo/DuoAuth.Api/DuoAuth.Api.csproj" Id="429fea8d-a452-4514-a0c9-f07042e8e969" />
   <Project Path="src/FedEx/Shipment/FedEx.Shipment.API/FedEx.Shipment.API.csproj" Id="76bd3e69-6923-4df6-8726-b2fca3b886a9" />
   <Project Path="src/FedEx/Shipment/FedEx.Shipment.Application/FedEx.Shipment.Application.csproj" Id="60e5ff51-a6cf-48ab-a31a-9d87210ecbdc" />
   <Project Path="src/FedEx/Shipment/FedEx.Shipment.Domain/FedEx.Shipment.Domain.csproj" Id="f9dacfe0-abc2-48ec-9c80-f7d7d5de8cf1" />
