@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="src/UPS/UPS.AddressSuggestion.API/UPS.AddressSuggestion.API.csproj" Id="3fbc2845-0972-4fd4-85ae-33c22ea815d3" />
+  <Project Path="src/UPS/UPS.AddressSuggestion.Application/UPS.AddressSuggestion.Application.csproj" Id="ebaa1928-41a1-413d-8f0e-fba82217daf2" />
+  <Project Path="src/UPS/UPS.AddressSuggestion.Domain/UPS.AddressSuggestion.Domain.csproj" Id="527237bb-1957-4edf-ac64-853c99e97b3e" />
+  <Project Path="src/UPS/UPS.AddressSuggestion.Infrastructure/UPS.AddressSuggestion.Infrastructure.csproj" Id="bcbb2e53-cae3-4e92-9f1a-3d03c6ab18b2" />
+  <Project Path="src/UPS/UPS.AddressValidation.API/UPS.AddressValidation.API.csproj" Id="fa233d58-c38f-4bfb-aaa7-f5ded57f3d7b" />
+  <Project Path="src/UPS/UPS.AddressValidation.Application/UPS.AddressValidation.Application.csproj" Id="cd6bc81e-e684-4ba2-ad38-b2c4da87f01b" />
+  <Project Path="src/UPS/UPS.AddressValidation.Domain/UPS.AddressValidation.Domain.csproj" Id="15ccf4bf-0b37-4567-94d9-17dc3058b1c6" />
+  <Project Path="src/UPS/UPS.AddressValidation.Infrastructure/UPS.AddressValidation.Infrastructure.csproj" Id="5f906792-a8ae-4bfe-88d1-0aa68188d80c" />
+</Solution>
