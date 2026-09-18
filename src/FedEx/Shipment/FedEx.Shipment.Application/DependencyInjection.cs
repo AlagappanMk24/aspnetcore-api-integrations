@@ -3,7 +3,8 @@ using MediatR;
 using FluentValidation;
 
 namespace FedEx.Shipment.Application;
-public static class DependencyInjection{
+public static class DependencyInjection
+{
     public static IServiceCollection AddShipmentApplication(this IServiceCollection services)
     {
         services.AddMediatR(config =>
