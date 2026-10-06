@@ -43,3 +43,11 @@
 /src/Duo/DuoAuth.Api/obj
 /src/Duo/DuoAuth.Api.Tests/bin/Debug/net8.0
 /src/Duo/DuoAuth.Api.Tests/obj
+/src/Vertex/Vertex.Tax.API/bin/Debug/net8.0
+/src/Vertex/Vertex.Tax.API/obj
+/src/Vertex/Vertex.Tax.Application/bin/Debug/net8.0
+/src/Vertex/Vertex.Tax.Application/obj
+/src/Vertex/Vertex.Tax.Domain/bin/Debug/net8.0
+/src/Vertex/Vertex.Tax.Domain/obj
+/src/Vertex/Vertex.Tax.Infrastructure/bin/Debug/net8.0
+/src/Vertex/Vertex.Tax.Infrastructure/obj
