@@ -18,4 +18,8 @@
   <Project Path="src/UPS/UPS.AddressValidation.Application/UPS.AddressValidation.Application.csproj" Id="cd6bc81e-e684-4ba2-ad38-b2c4da87f01b" />
   <Project Path="src/UPS/UPS.AddressValidation.Domain/UPS.AddressValidation.Domain.csproj" Id="15ccf4bf-0b37-4567-94d9-17dc3058b1c6" />
   <Project Path="src/UPS/UPS.AddressValidation.Infrastructure/UPS.AddressValidation.Infrastructure.csproj" Id="5f906792-a8ae-4bfe-88d1-0aa68188d80c" />
+  <Project Path="src/Vertex/Vertex.Tax.API/Vertex.Tax.API.csproj" Id="2615dc93-6d36-4101-b7e0-03c63322f0cd" />
+  <Project Path="src/Vertex/Vertex.Tax.Application/Vertex.Tax.Application.csproj" Id="cc380287-7f46-4c2a-9a17-1626c864ea86" />
+  <Project Path="src/Vertex/Vertex.Tax.Domain/Vertex.Tax.Domain.csproj" Id="b4ad9a92-08aa-4761-a0f3-fe2a1647bdd5" />
+  <Project Path="src/Vertex/Vertex.Tax.Infrastructure/Vertex.Tax.Infrastructure.csproj" Id="b465785c-fa59-4550-8852-d3c327f5efa3" />
 </Solution>
