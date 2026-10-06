@@ -51,3 +51,13 @@
 /src/Vertex/Vertex.Tax.Domain/obj
 /src/Vertex/Vertex.Tax.Infrastructure/bin/Debug/net8.0
 /src/Vertex/Vertex.Tax.Infrastructure/obj
+/src/PackingSlip/PackingSlip.Pdf.API/bin/Debug/net8.0
+/src/PackingSlip/PackingSlip.Pdf.API/obj
+/src/PackingSlip/PackingSlip.Pdf.Application/bin/Debug/net8.0
+/src/PackingSlip/PackingSlip.Pdf.Application/obj
+/src/PackingSlip/PackingSlip.Pdf.Domain/bin/Debug/net8.0
+/src/PackingSlip/PackingSlip.Pdf.Domain/obj
+/src/PackingSlip/PackingSlip.Pdf.Infrastructure/bin/Debug/net8.0
+/src/PackingSlip/PackingSlip.Pdf.Infrastructure/obj
+/src/PackingSlip/PackingSlip.Pdf.UnitTests/bin/Debug/net8.0
+/src/PackingSlip/PackingSlip.Pdf.UnitTests/obj

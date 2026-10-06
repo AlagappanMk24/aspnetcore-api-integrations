@@ -10,6 +10,11 @@
   <Project Path="src/FedEx/Tracking/FedEx.Tracking.Application/FedEx.Tracking.Application.csproj" Id="6f0cac2a-a797-40ea-844a-0cc9b06bbc1a" />
   <Project Path="src/FedEx/Tracking/FedEx.Tracking.Domain/FedEx.Tracking.Domain.csproj" Id="ed842664-10c2-4376-a310-725a44c8e620" />
   <Project Path="src/FedEx/Tracking/FedEx.Tracking.Infrastructure/FedEx.Tracking.Infrastructure.csproj" Id="201e9726-2c3b-425e-b019-5b4c5a853d23" />
+  <Project Path="src/PackingSlip/PackingSlip.Pdf.API/PackingSlip.Pdf.API.csproj" Id="61679195-6ada-4e87-af59-5ede9263e544" />
+  <Project Path="src/PackingSlip/PackingSlip.Pdf.Application/PackingSlip.Pdf.Application.csproj" Id="b4441db3-7e1f-45e4-a6ec-e4f9a2e0f915" />
+  <Project Path="src/PackingSlip/PackingSlip.Pdf.Domain/PackingSlip.Pdf.Domain.csproj" Id="3e03cd15-5eed-4664-b970-bac3e302bcfe" />
+  <Project Path="src/PackingSlip/PackingSlip.Pdf.Infrastructure/PackingSlip.Pdf.Infrastructure.csproj" Id="89a09a87-8ad9-4186-8fea-5737e7560cb4" />
+  <Project Path="src/PackingSlip/PackingSlip.Pdf.UnitTests/PackingSlip.Pdf.UnitTests.csproj" Id="d103cff5-83bd-4945-b42c-aeab2f5e6af6" />
   <Project Path="src/UPS/UPS.AddressSuggestion.API/UPS.AddressSuggestion.API.csproj" Id="3fbc2845-0972-4fd4-85ae-33c22ea815d3" />
   <Project Path="src/UPS/UPS.AddressSuggestion.Application/UPS.AddressSuggestion.Application.csproj" Id="ebaa1928-41a1-413d-8f0e-fba82217daf2" />
   <Project Path="src/UPS/UPS.AddressSuggestion.Domain/UPS.AddressSuggestion.Domain.csproj" Id="527237bb-1957-4edf-ac64-853c99e97b3e" />
