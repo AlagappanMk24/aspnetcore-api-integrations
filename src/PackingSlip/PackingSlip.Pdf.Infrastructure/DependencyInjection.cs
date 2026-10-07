@@ -11,6 +11,7 @@ public static class DependencyInjection
     {
         QuestPDF.Settings.License = licenseType;
         services.AddSingleton<IPackingSlipPdfGenerator, QuestPdfPackingSlipGenerator>();
+        services.AddSingleton<ITemplatePackingSlipPdfGenerator, TemplatePackingSlipPdfGenerator>();
         return services;
     }
 }

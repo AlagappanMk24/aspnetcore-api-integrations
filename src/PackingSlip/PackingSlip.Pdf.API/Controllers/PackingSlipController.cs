@@ -8,8 +8,10 @@ namespace PackingSlip.Pdf.Api.Controllers;
 
 [ApiController]
 [Route("api/packing-slips")]
-public sealed class PackingSlipController(IPackingSlipPdfGenerator generator) : ControllerBase
+public sealed class PackingSlipController(IPackingSlipPdfGenerator generator, ITemplatePackingSlipPdfGenerator templateGenerator) : ControllerBase
 {
+    private readonly IPackingSlipPdfGenerator _generator = generator;
+    private readonly ITemplatePackingSlipPdfGenerator _templateGenerator = templateGenerator;
     [HttpPost("pdf")]
     [Produces("application/pdf")]
     public IActionResult GeneratePdf([FromBody] Domain.Models.PackingSlip request)
@@ -25,8 +27,20 @@ public sealed class PackingSlipController(IPackingSlipPdfGenerator generator) : 
             return ValidationProblem(details);
         }
 
-        var pdf = generator.Generate(request);
+        var pdf = _generator.Generate(request);
         var fileName = $"packing-slip-{SanitizeFileName(request.OrderNumber)}.pdf";
+        return File(pdf, "application/pdf", fileName);
+    }
+
+    [HttpPost("template-pdf")]
+    [Produces("application/pdf")]
+    public IActionResult GenerateTemplatePdf([FromBody] TemplatePackingSlip request)
+    {
+        if (request.Items.Count > 7)
+            return BadRequest(new { message = "The supplied commercial template supports a maximum of 7 item rows per page." });
+
+        var pdf = _templateGenerator.Generate(request);
+        var fileName = $"commercial-packing-slip-{SanitizeFileName(request.OrderNumber)}.pdf";
         return File(pdf, "application/pdf", fileName);
     }
 

@@ -1,0 +1,85 @@
+{
+  "orderNumber": "ORD-2026-9042",
+  "orderDate": "2026-10-07T10:18:37.825Z",
+  "shippingMethod": "FedEx Ground Express",
+  "from": {
+    "name": "Infotech Logistics Hub",
+    "addressLine1": "Industrial Park, Unit 4B",
+    "addressLine2": "Outer Ring Road",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postalCode": "600032",
+    "country": "India",
+    "email": "dispatch@infotech.com",
+    "phone": "+91 44 4000 1111",
+    "vat": "GSTIN33AAAAA0000A1Z5"
+  },
+  "billTo": {
+    "name": "Jane Doe",
+    "addressLine1": "456 Market Road",
+    "addressLine2": "Apt 201",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postalCode": "600002",
+    "country": "India",
+    "email": "jane.doe@example.com",
+    "phone": "+91 98765 43211",
+    "vat": ""
+  },
+  "shipTo": {
+    "name": "John Doe",
+    "addressLine1": "123 Main Street",
+    "addressLine2": "Building 5",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "postalCode": "600001",
+    "country": "India",
+    "email": "john.doe@example.com",
+    "phone": "+91 98765 43210",
+    "vat": ""
+  },
+  "items": [
+    {
+      "sku": "SKU-FOOT-001",
+      "productName": "Pro Running Shoes (Size 10 / Black)",
+      "quantity": 2
+    },
+    {
+      "sku": "SKU-APPR-102",
+      "productName": "Breathable Athletic Socks (3-Pack)",
+      "quantity": 5
+    },
+    {
+      "sku": "SKU-EQUP-205",
+      "productName": "Stainless Steel Water Bottle (750ml)",
+      "quantity": 1
+    },
+    {
+      "sku": "SKU-APPR-311",
+      "productName": "Dry-Fit Training Shorts (Medium)",
+      "quantity": 3
+    },
+    {
+      "sku": "SKU-ACCS-412",
+      "productName": "Adjustable Sweatband (Navy Blue)",
+      "quantity": 2
+    },
+    {
+      "sku": "SKU-EQUP-509",
+      "productName": "Non-Slip Yoga & Fitness Mat (6mm)",
+      "quantity": 1
+    },
+    {
+      "sku": "SKU-ACCS-601",
+      "productName": "Padded Gym Duffle Bag (35L)",
+      "quantity": 1
+    },
+    {
+      "sku": "SKU-TECH-780",
+      "productName": "Fitness Tracker Smart Band",
+      "quantity": 2
+    }
+  ],
+  "notes": "Thank you for your order! We’ve carefully packed your items and hope everything arrives just as expected. If you have any questions or concerns, feel free to reach out—we’re here to help!",
+  "logoBase64": ""
+}

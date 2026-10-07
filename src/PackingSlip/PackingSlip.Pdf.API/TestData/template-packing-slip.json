@@ -1,0 +1,62 @@
+{
+  "invoiceNumber": "INV-2026-0891",
+  "orderNumber": "ORD-1001",
+  "orderDate": "2026-10-07T07:14:57.027Z",
+  "deliveryMethod": "Standard Express",
+  "company": {
+    "phone": "+91 44 2800 0000",
+    "email": "support@myvision.com",
+    "website": "www.myvision.com"
+  },
+  "billTo": {
+    "name": "Jane Doe",
+    "addressLine1": "456 Market Road",
+    "cityStateZip": "Chennai, TN 600002",
+    "emailAndPhone": "jane.doe@example.com | +91 98765 43211"
+  },
+  "shipTo": {
+    "name": "John Doe",
+    "addressLine1": "123 Main Street",
+    "cityStateZip": "Chennai, TN 600001",
+    "emailAndPhone": "john.doe@example.com | +91 98765 43210"
+  },
+  "items": [
+    {
+      "itemNumber": "SKU-FOOT-001",
+      "description": "Pro Running Shoes (Size 10 / Black)",
+      "quantity": 2
+    },
+    {
+      "itemNumber": "SKU-APPR-102",
+      "description": "Breathable Athletic Socks (3-Pack)",
+      "quantity": 5
+    },
+    {
+      "itemNumber": "SKU-EQUP-205",
+      "description": "Stainless Steel Water Bottle (750ml)",
+      "quantity": 1
+    },
+    {
+      "itemNumber": "SKU-APPR-311",
+      "description": "Dry-Fit Training Shorts (Medium)",
+      "quantity": 3
+    },
+    {
+      "itemNumber": "SKU-ACCS-412",
+      "description": "Adjustable Sweatband (Navy Blue)",
+      "quantity": 2
+    },
+    {
+      "itemNumber": "SKU-EQUP-509",
+      "description": "Non-Slip Yoga & Fitness Mat (6mm)",
+      "quantity": 1
+    },
+    {
+      "itemNumber": "SKU-ACCS-601",
+      "description": "Padded Gym Duffle Bag (35L)",
+      "quantity": 1
+    }
+  ],
+  "footerContactMessage": "If you have any questions or concerns regarding this shipment, please contact support@myvision.com or call +91 44 2800 0000.",
+  "footerThankYouMessage": "Thank you for your business!"
+}
